@@ -219,3 +219,6 @@ __marimo__/
 
 # Raw data files
 data/
+
+# Model files - too large for GitHub
+models/
